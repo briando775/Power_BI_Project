@@ -52,7 +52,7 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **Mid-size Groceries achieved the highest YOY growth, nearly quadrupling revenue from $24.3K to $94.2K**, supported by an increase in store count from 1 to 4.
 
-<img src="Images & Gifs/Sales Trend Revenue Per Store.png" width="420"/> <img src="Images & Gifs/Sales Trend Store Count.png" width="344"/>
+![Sales Trend](/Images%20&%20Gifs/Sales%20Trend.png)
 
 ---
 
@@ -64,7 +64,9 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **Stores 13 and 23 were the only locations with negative YOY Average Monthly Revenue (-4.63% and -4.45%, respectively)**, driven by significant declines in Average Monthly Customers (-11.13% and -11.27%). These customer declines also reduced Average Monthly Transactions (-6.21% for Store 13 and -5.39% for Store 23). Despite this, Average Monthly Revenue in both stores only fell slightly (less than 5%), supported by increased Average Revenue per Customer.
 
-![Store Performance](/Images%20&%20Gifs/Store%20Performance.png)
+<p align="center">
+<img src="Images & Gifs/Store Performance.png"/>
+</p>
 
 ---
 
@@ -101,27 +103,21 @@ Radar charts for each store type illustrate which operational aspects require im
 - For stores with **low traffic but high average spend per customer** (Stores 8 and 12), focus on expanding the customer base through targeted marketing and loyalty initiatives while maintaining premium positioning.
 - For stores with **higher traffic but moderate average spend per customer** (Stores 13, 17, 19, and 21), implement upselling and cross-selling strategies to boost revenue per visit. For Store 13, address the -11.13% YOY customer decline through retention campaigns. Additionally, optimize space utilization in Store 21 to improve revenue per square foot.
 
-<p align="center">
-<img src="Images & Gifs/Deluxe Supermarket.png"/>
-</p>
+![Deluxe Supermarket](/Images%20&%20Gifs/Deluxe%20Supermarket.png)
 
 **Gourmet Supermarket**
 
 - For **store 4 with low traffic and high average spend per customer**, increase customer traffic through marketing campaigns and loyalty programs.
 - For **store 6 with high traffic and lower average spend per customer**, focus on upselling and cross-selling to lift average spend per visit.
 
-<p align="center">
-<img src="Images & Gifs/Gourmet Supermarket.png"/>
-</p>
+![Gourmet Supermarket](/Images%20&%20Gifs/Gourmet%20Supermarket.png)
 
 **Mid-size Grocery**
 
 - For stores with **low traffic and high average spend per customer** (Stores 18 and 23), grow customer visits via hyperlocal marketing and retention programs. Store 18 should also address underutilised space to improve revenue per square foot.
 - For stores with **high traffic and lower average spend per customer** (Stores 9 and 20), leverage their customer bases with upselling and cross-selling efforts to enhance profitability.
 
-<p align="center">
-<img src="Images & Gifs/Mid-size Grocery.png"/>
-</p>
+![Mid-size Grocery](/Images%20&%20Gifs/Mid-size%20Grocery.png)
 
 **Small Grocery**
 
@@ -130,9 +126,7 @@ Radar charts for each store type illustrate which operational aspects require im
 - Attracting more customers through hyperlocal marketing, community partnerships, and loyalty initiatives.
 - For underperforming stores (e.g., Stores 2 and 22), optimize space utilization and introduce higher-margin products to maximise returns from limited space.
 
-<p align="center">
-<img src="Images & Gifs/Small Grocery.png"/>
-</p>
+![Small Grocery](/Images%20&%20Gifs/Small%20Grocery.png)
 
 **Supermarket**
 
@@ -140,7 +134,4 @@ Radar charts for each store type illustrate which operational aspects require im
 - For stores with **low traffic and high average spend per customer** (Stores 10 and 16), prioritize customer acquisition strategies to grow the customer base while maintaining strong customer spend.
 - For stores with **low revenue per square foot** (Stores 3, 10, 16, and 24), optimize space utilization and refine product assortments to increase space efficiency.
 
-<p align="center">
-<img src="Images & Gifs/Supermarket.png"/>
-</p>
-
+![Supermarket](/Images%20&%20Gifs/Supermarket.png)

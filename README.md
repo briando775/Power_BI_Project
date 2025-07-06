@@ -52,7 +52,7 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **Mid-size Groceries achieved the highest YOY growth, nearly quadrupling revenue from $24.3K to $94.2K**, supported by an increase in store count from 1 to 4.
 
-<img src="Images & Gifs/Sales Trend Revenue Per Store.png" width="310"/> <img src="Images & Gifs/Sales Trend Store Count.png" width="255"/>
+<img src="Images & Gifs/Sales Trend Revenue Per Store.png" width="420"/> <img src="Images & Gifs/Sales Trend Store Count.png" width="344"/>
 
 ---
 

@@ -76,7 +76,7 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **In 1998, the top 30 of 111 brands** sold across Maven Market stores **accounted for nearly 62% of transactions and contributed $754,862 in revenue** (63% of total sales), with an average profit margin of 59.89% and a return rate of 1%.
 
-**Over the past two years, 426 underperforming products from 93 brands** (some brands having multiple underperforming products) have been identified to **repeatedly generated at least 20% below the median revenue of other brands in their product group**. These are categorised as:
+**Over the past two years, 427 underperforming products from 93 brands** (some brands having multiple underperforming products) have been identified to **repeatedly generated at least 20% below the median revenue of other brands in their product group**. These are categorised as:
 
 - **Critical Priority:** 44 products from 34 brands (≥70% below median revenue)
 - **High Priority:** 137 products from 65 brands (≥50% below median revenue)

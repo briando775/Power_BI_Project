@@ -13,7 +13,9 @@ The insights and recommendations are structured into three key areas:
 - **Store Performance:** Evaluation of U.S. store performance based on year-over-year changes in Average Monthly Transactions, Average Monthly Revenue, Average Monthly Customers, and Average Revenue per Customer.
 - **Product and Brand Performance:** In-depth analysis of top-performing brands and identification of underperforming products requiring attention.
 
-The SQL queries used to analyse underperforming products are available [here].
+A demonstration of how the three dashboards function is available [here](https://github.com/briando775/Power_BI_Project/tree/main/Power%20BI%20Dashboards#readme)
+
+The SQL queries used to analyse underperforming products are available [here](https://github.com/briando775/Power_BI_Project/blob/main/SQL/Product%20Labeling%20For%20Replacement.sql).
 
 ---
 
@@ -83,7 +85,9 @@ In both years, revenue remained stable near the annual average throughout the fi
 - **Moderate Priority:** 153 products from 66 brands (≥30% below median revenue)
 - **Review Needed:** 93 products from 54 brands (≥20% below median revenue)
 
-**Need to add the view of underperforming products here**
+A detailed table of all product-brand pairs with revenue at least 20% below their product group’s median revenue can be downloaded [here](https://github.com/briando775/Power_BI_Project/blob/main/Underperforming%20Products/A%20detailed%20table%20of%20all%20product-brand%20pairs.xlsx)
+
+A summary table showing each product brand and the count of its products in each priority label can be downloaded [here](https://github.com/briando775/Power_BI_Project/blob/main/Underperforming%20Products/A%20summary%20table%20for%20each%20product%20brand%20and%20the%20count%20of%20its%20products.xlsx)
 
 ---
 

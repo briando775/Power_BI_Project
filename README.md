@@ -23,7 +23,7 @@ The dataset includes Maven Market’s transaction and returns data from **Januar
 
 Power Query’s profiling tools (such as column quality and column profile) were used to assess data quality and address null and duplicate values. Transformation tools—including text, numeric, and date/time functions—were applied to prepare the data for analysis.
 
-![Data Structure](/images%20&%20gifs/Data%20Structure.png)
+![Data Structure](/Images%20&%20Gifs/Data%20Structure.png)
 
 Power Query’s profiling tools (such as column quality and column profile) were used to assess data quality and address null and duplicate values. Transformation tools—including text, numeric, and date/time functions—were applied to prepare the data for analysis.
 
@@ -38,7 +38,7 @@ Revenue has shown a consistent upward trend over the past two years. In **1998**
 
 Below is the Executive dashboard that provides a high-level overview of 1998 business performance.
 
-![Executive Dashboard](/images%20&%20gifs/Executive%20Dashboard.png)
+![Executive Dashboard](/Images%20&%20Gifs/Executive%20Dashboard.png)
 
 ---
 
@@ -52,7 +52,7 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **Mid-size Groceries achieved the highest YOY growth, nearly quadrupling revenue from $24.3K to $94.2K**, supported by an increase in store count from 1 to 4.
 
-<img src="images & gifs/Sales Trend Revenue Per Store.png" width="310"/> <img src="images & gifs/Sales Trend Store Count.png" width="255"/>
+<img src="Images & Gifs/Sales Trend Revenue Per Store.png" width="310"/> <img src="Images & Gifs/Sales Trend Store Count.png" width="255"/>
 
 ---
 
@@ -64,7 +64,7 @@ In both years, revenue remained stable near the annual average throughout the fi
 
 **Stores 13 and 23 were the only locations with negative YOY Average Monthly Revenue (-4.63% and -4.45%, respectively)**, driven by significant declines in Average Monthly Customers (-11.13% and -11.27%). These customer declines also reduced Average Monthly Transactions (-6.21% for Store 13 and -5.39% for Store 23). Despite this, Average Monthly Revenue in both stores only fell slightly (less than 5%), supported by increased Average Revenue per Customer.
 
-![Store Performance](/images%20&%20gifs/Store%20Performance.png)
+![Store Performance](/Images%20&%20Gifs/Store%20Performance.png)
 
 ---
 
@@ -102,7 +102,7 @@ Radar charts for each store type illustrate which operational aspects require im
 - For stores with **higher traffic but moderate average spend per customer** (Stores 13, 17, 19, and 21), implement upselling and cross-selling strategies to boost revenue per visit. For Store 13, address the -11.13% YOY customer decline through retention campaigns. Additionally, optimize space utilization in Store 21 to improve revenue per square foot.
 
 <p align="center">
-<img src="images & gifs/Deluxe Supermarket.png"/>
+<img src="Images & Gifs/Deluxe Supermarket.png"/>
 </p>
 
 **Gourmet Supermarket**
@@ -111,7 +111,7 @@ Radar charts for each store type illustrate which operational aspects require im
 - For **store 6 with high traffic and lower average spend per customer**, focus on upselling and cross-selling to lift average spend per visit.
 
 <p align="center">
-<img src="images & gifs/Gourmet Supermarket.png"/>
+<img src="Images & Gifs/Gourmet Supermarket.png"/>
 </p>
 
 **Mid-size Grocery**
@@ -120,7 +120,7 @@ Radar charts for each store type illustrate which operational aspects require im
 - For stores with **high traffic and lower average spend per customer** (Stores 9 and 20), leverage their customer bases with upselling and cross-selling efforts to enhance profitability.
 
 <p align="center">
-<img src="images & gifs/Mid-size Grocery.png"/>
+<img src="Images & Gifs/Mid-size Grocery.png"/>
 </p>
 
 **Small Grocery**
@@ -131,7 +131,7 @@ Radar charts for each store type illustrate which operational aspects require im
 - For underperforming stores (e.g., Stores 2 and 22), optimize space utilization and introduce higher-margin products to maximise returns from limited space.
 
 <p align="center">
-<img src="images & gifs/Small Grocery.png"/>
+<img src="Images & Gifs/Small Grocery.png"/>
 </p>
 
 **Supermarket**
@@ -141,6 +141,6 @@ Radar charts for each store type illustrate which operational aspects require im
 - For stores with **low revenue per square foot** (Stores 3, 10, 16, and 24), optimize space utilization and refine product assortments to increase space efficiency.
 
 <p align="center">
-<img src="images & gifs/Supermarket.png"/>
+<img src="Images & Gifs/Supermarket.png"/>
 </p>
 

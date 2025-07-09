@@ -27,8 +27,6 @@ Power Query’s profiling tools (such as column quality and column profile) were
 
 ![Data Structure](/Images%20&%20Gifs/Data%20Structure.png)
 
-Power Query’s profiling tools (such as column quality and column profile) were used to assess data quality and address null and duplicate values. Transformation tools—including text, numeric, and date/time functions—were applied to prepare the data for analysis.
-
 ## 📊 Executive Summary
 
 ### Overview and Findings

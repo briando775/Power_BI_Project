@@ -50,6 +50,8 @@ Below is the Executive dashboard that provides a high-level overview of 1998 bus
 
 In both years, revenue remained stable near the annual average throughout the first three quarters, followed by a seasonal dip in October ($42,342 in 1997 and $92,436 in 1998) and a rebound in November and December during the holiday season.
 
+![Monthly Revenue Trending](/Images%20&%20Gifs/Monthly%20Revenue%20Trending.png)
+
 **Deluxe Supermarkets and Supermarkets** remained the top-performing store types, **contributing 85.14% of total revenue in 1997 and 81.55% in 1998**. Deluxe Supermarkets expanded from 2 to 6 locations and outperformed Supermarkets in 1998 revenue by $37.3K, despite operating two fewer stores, indicating higher average revenue per store. Moreover, all 6 Deluxe Supermarkets ranked among the top 6 revenue-generating stores company-wide.
 
 **Mid-size Groceries achieved the highest YOY growth, nearly quadrupling revenue from $24.3K to $94.2K**, supported by an increase in store count from 1 to 4.
@@ -77,6 +79,8 @@ In both years, revenue remained stable near the annual average throughout the fi
 **Hermanos, Tell Tale, Ebony, and Tri-State** were **the top four revenue- and profit-generating brands for two consecutive years**, collectively **contributing over $139,463 in revenue and $82,069 in profit in 1998**.
 
 **In 1998, the top 30 of 111 brands** sold across Maven Market stores **accounted for nearly 62% of transactions and contributed $754,862 in revenue** (63% of total sales), with an average profit margin of 59.89% and a return rate of 1%.
+
+![Top 30 brands](/Images%20&%20Gifs/Top%2030%20Brands.png)
 
 **Over the past two years, 427 underperforming products from 93 brands** (some brands having multiple underperforming products) have been identified to **repeatedly generated at least 20% below the median revenue of other brands in their product group**. These are categorised as:
 
